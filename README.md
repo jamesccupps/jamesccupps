@@ -1,6 +1,6 @@
 ### Projects
 
-🏢 **[HVAC-Network-Scanner](https://github.com/jamesccupps/HVAC-Network-Scanner)** — Multi-protocol BACnet, Modbus, and Niagara scanner for commercial building automation networks. Raw UDP implementation, zero third-party dependencies, headless CLI and Tk GUI.
+🏢 **[HVAC-Network-Scanner](https://github.com/jamesccupps/HVAC-Network-Scanner)** — Multi-protocol BACnet scanner for commercial building automation networks. Raw UDP implementation, zero third-party dependencies, headless CLI and Tk GUI.
 
 📝 **[NoteForge](https://github.com/jamesccupps/NoteForge)** — Encrypted offline note-taking with master-password and per-notebook locks. Electron + AES-256-GCM. Data stays local — no cloud, no account.
 

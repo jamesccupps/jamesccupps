@@ -8,9 +8,9 @@
 
 ⚗ **[FlavorForge](https://github.com/jamesccupps/FlavorForge)** — Procedural recipe generator using molecular flavor science, aroma-compound pairing, and texture/taste-balance analysis. Optional AI Chef integration.
 
-🛡️ **[NetSentinel](https://github.com/jamesccupps/NetSentinel)** — Desktop IDS that learns your network baseline and flags anomalies with ML. PCAP forensics, threat-intel correlation, AES-256 credential vault.
+📦 **[UnifiStockWatcher](https://github.com/jamesccupps/UnifiStockWatcher)** — Restock alerter for the Ubiquiti Store. Python/tkinter with full-catalog monitoring and live stock-change alerts.
 
-🔐 **[CryptoAudit](https://github.com/jamesccupps/CryptoAudit)** — Network-traffic crypto analyzer that identifies weak or missing encryption, then attempts recovery. PCAP or live capture, with JA3 fingerprinting and plaintext-protocol detection.
+📡 **[P2Scanner](https://github.com/jamesccupps/P2Scanner)** — P2 protocol scanner for HVAC building automation systems. Python, CLI and Tk GUI.
 
 ### Contact
 

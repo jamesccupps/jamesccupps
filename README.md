@@ -4,7 +4,7 @@
 
 🐿️ **[Packet-Squirrel-Mark-II-Custom-Payloads](https://github.com/jamesccupps/Packet-Squirrel-Mark-II-Custom-Payloads)** — 23 payloads for the Hak5 Packet Squirrel Mark II — packet capture, OT/ICS discovery, home-automation triggers, and more.
 
-📡 **[P2Scanner](https://github.com/jamesccupps/P2Scanner)** — P2 protocol scanner for HVAC building automation systems. Python, CLI and Tk GUI.
+📡 **[P2Scanner](https://github.com/jamesccupps/P2Scanner)** — APOGEE P2 protocol scanner for HVAC building automation systems. Python, CLI and Tk GUI.
 
 🔌 **[P2_BACnet_Bridge](https://github.com/jamesccupps/P2_BACnet_Bridge)** — Bridge that exposes Siemens APOGEE PXC controllers as BACnet/IP devices. Lets Desigo CC, Niagara, and any other modern supervisor read APOGEE panels natively. Python, persistent point manifest, Tk configurator GUI.
 

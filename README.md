@@ -6,6 +6,8 @@
 
 🏢 **[HVAC-Network-Scanner](https://github.com/jamesccupps/HVAC-Network-Scanner)** — Multi-protocol BACnet scanner for commercial building automation networks. Raw UDP implementation, zero third-party dependencies, headless CLI and Tk GUI.
 
+🦈 **[P2_Wireshark_Dissector](https://github.com/jamesccupps/P2_Wireshark_Dissector)** — Lua Wireshark dissector for the Siemens APOGEE P2 protocol. Decodes supervisor↔panel traffic between Desigo CC and APOGEE PXC field panels with 100+ opcodes and direction-aware body parsing.
+
 📦 **[UnifiStockWatcher](https://github.com/jamesccupps/UnifiStockWatcher)** — Restock alerter for the Ubiquiti Store. Python/tkinter with full-catalog monitoring and live stock-change alerts.
 
 ⚗ **[FlavorForge](https://github.com/jamesccupps/FlavorForge)** — Procedural recipe generator using molecular flavor science, aroma-compound pairing, and texture/taste-balance analysis. Optional AI Chef integration.

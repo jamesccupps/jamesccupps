@@ -11,7 +11,7 @@
 
 🌡️ **[CoolingTowerSim](https://github.com/jamesccupps/CoolingTowerSim)** Physics-based browser simulator of a commercial building's condenser-water cooling loop. Animated process schematic, full tower-staging sequence of operations, and live power-draw KPIs. Single self-contained HTML file, calibrated against real BAS field trends — [live demo](https://jamesccupps.github.io/CoolingTowerSim/).
 
-💧 **[Wetbulb](https://github.com/jamesccupps/Wetbulb)** Live, pressure-corrected wet-bulb temperature by ZIP, city, or GPS — the floor any cooling tower or evaporative process can chase. Iterative psychrometric solve at actual station pressure (not a sea-level fit), cross-checked against Stull (2011), plus a cooling-tower approach reference, shade-WBGT screening estimate, 24 h trend with next-24h forecast peak, and a fully offline manual calculator. Vanilla JS, zero dependencies, installable PWA — [live demo](https://jamesccupps.github.io/Wetbulb/).
+💧 **[Wetbulb](https://github.com/jamesccupps/Wetbulb)** Real-time, pressure-corrected wet-bulb temperature by ZIP, city, or GPS — with a cooling-tower approach reference, a shade-WBGT estimate, a 24-hour trend plus next-24h forecast peak, and a fully offline manual psychrometric calculator. — [live demo](https://jamesccupps.github.io/Wetbulb/).
 
 📦 **[UnifiStockWatcher](https://github.com/jamesccupps/UnifiStockWatcher)** Restock alerter for the Ubiquiti Store. Python/tkinter with full-catalog monitoring and live stock-change alerts.
  

@@ -1,4 +1,6 @@
 ### Projects
+🪨 **[Slate](https://github.com/jamesccupps/Slate)** A fast, simple Notepad replacement for Windows that opens files of any size — an 800 MB JSON file opens instantly. Syntax colors for 52 languages, JSON and XML tools, tabs and unsaved changes that come back after a restart, automatic updates. Native Rust + Direct2D, one small portable exe — [download](https://github.com/jamesccupps/Slate/releases/latest).
+
 📝 **[NoteForge](https://github.com/jamesccupps/NoteForge)** Encrypted offline note-taking with master-password and per-notebook locks. Electron + AES-256-GCM. Data stays local — no cloud, no account.
 
 🐿️ **[Packet-Squirrel-Mark-II-Custom-Payloads](https://github.com/jamesccupps/Packet-Squirrel-Mark-II-Custom-Payloads)** 23 payloads for the Hak5 Packet Squirrel Mark II — packet capture, OT/ICS discovery, home-automation triggers, and more.

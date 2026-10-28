@@ -19,7 +19,7 @@
 
 📦 **[UnifiStockWatcher](https://github.com/jamesccupps/UnifiStockWatcher)** Restock alerter for the Ubiquiti Store. Python/tkinter with full-catalog monitoring and live stock-change alerts.
 
-📹 **[Protect Panes](https://github.com/jamesccupps/UnifiCameraViewer)** UniFi Protect live view for Windows: each camera in its own borderless window you can place and size anywhere, or several in one grid window, across several consoles. Video comes over Protect's own livestream (no RTSP), with a local login (no cloud account or MFA). Also 360° fisheye dewarping, saved layouts with Protect liveview import, camera previews, and signed in-place updates. Electron — [download](https://github.com/jamesccupps/UnifiCameraViewer/releases/latest).
+📹 **[Protect Panes](https://github.com/jamesccupps/UnifiCameraViewer)** UniFi Protect live view for Windows: each camera in its own borderless window you can place and size anywhere, or several in one grid window, across several consoles. Video comes over Protect's own livestream (no RTSP), with a local login (no cloud account or MFA). Also 360° fisheye dewarping, saved layouts with Protect liveview import, camera previews, and signed in-place updates. Electron — [website](https://jamesccupps.github.io/UnifiCameraViewer/) · [download](https://github.com/jamesccupps/UnifiCameraViewer/releases/latest).
  
 ### Contact
 

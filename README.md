@@ -3,8 +3,6 @@
 
 📝 **[NoteForge](https://github.com/jamesccupps/NoteForge)** Encrypted offline note-taking with master-password and per-notebook locks. Electron + AES-256-GCM. Data stays local — no cloud, no account.
 
-🐿️ **[Packet-Squirrel-Mark-II-Custom-Payloads](https://github.com/jamesccupps/Packet-Squirrel-Mark-II-Custom-Payloads)** 23 payloads for the Hak5 Packet Squirrel Mark II — packet capture, OT/ICS discovery, home-automation triggers, and more.
-
 🏢 **[HVAC-Network-Scanner](https://github.com/jamesccupps/HVAC-Network-Scanner)** Multi-protocol BACnet scanner for commercial building automation networks. Raw UDP implementation, zero third-party dependencies, headless CLI and Tk GUI.
 
 📡 **[PingerPlot](https://github.com/jamesccupps/PingerPlot)** Continuous-traceroute network path monitor for Windows (MTR-style). Per-hop latency, packet loss, jitter, and MOS with live latency graphs, alerts, and a world-map path view. Pure Python standard library — zero dependencies, no admin needed in ICMP mode.

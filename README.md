@@ -40,7 +40,7 @@
 
 ### Other projects
 
-🐟 **[Synapse Reef](https://github.com/jamesccupps/Reef)** A neuroevolution lake in the browser. Eight fish species, each thinking with its own small recurrent neural network, evolve and learn to forage, school, hunt, flee and breed in a lake with seasons, weather, dissolved oxygen, a nutrient cycle, plankton and plants. Click any fish to watch its brain fire live. Plain ES modules, nothing to build.
+🐟 **[Synapse Reef](https://github.com/jamesccupps/Reef)** A neuroevolution lake in the browser. Eight fish species, each thinking with its own small recurrent neural network, evolve and learn to forage, school, hunt, flee and breed in a lake with seasons, weather, dissolved oxygen, a nutrient cycle, plankton and plants. Click any fish to watch its brain fire live. Plain ES modules, nothing to build — [live demo](https://jamesccupps.github.io/Reef/).
 
 📊 **[Stock Oracle](https://github.com/jamesccupps/StockOracle)** Multi-signal stock prediction and monitoring for Windows: 39 data collectors, an ML ensemble and an optional Claude advisor in a tkinter app, plus a Bloomberg-style browser terminal (SEC filings, insiders, options, FRED macro, live quotes). A research tool, not financial advice.
 

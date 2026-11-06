@@ -12,7 +12,7 @@
 
 ### Building automation and HVAC
 
-🏢 **[HVAC-Network-Scanner](https://github.com/jamesccupps/HVAC-Network-Scanner)** Multi-protocol discovery and audit tool for building automation networks: BACnet/IP, MS/TP behind routers, BACnet/SC, Modbus TCP, KNXnet/IP, SNMP and Niagara Fox, with model fingerprinting for Trane, Siemens, JCI, Tridium and more. Raw-socket implementation, zero third-party dependencies, headless CLI and Tk GUI — [download](https://github.com/jamesccupps/HVAC-Network-Scanner/releases/latest).
+🏢 **[HVAC-Network-Scanner](https://github.com/jamesccupps/HVAC-Network-Scanner)** Multi-protocol discovery and audit tool for building automation networks: BACnet/IP, MS/TP behind routers, BACnet/SC, Modbus TCP, KNXnet/IP, SNMP, Niagara Fox and Siemens APOGEE P2 detection, with model fingerprinting for Trane, Siemens, JCI, Tridium and more. Reads points, trends, schedules and alarm routing, flags factory-default logins, and writes an HTML survey report; read-only by design. Python standard library only, headless CLI and Tk GUI — [website](https://jamesccupps.github.io/HVAC-Network-Scanner/) · [download](https://github.com/jamesccupps/HVAC-Network-Scanner/releases/latest).
 
 🦈 **[P2_Wireshark_Dissector_and_P2_Scanner](https://github.com/jamesccupps/P2_Wireshark_Dissector_And_P2_Scanner)** Tools and a technical reference for P2 ("Protocol II"), the Siemens APOGEE building-automation protocol over TCP: a Wireshark dissector, a read-only scanner, a virtual PXC panel to develop against, and a P2→BACnet/IP bridge — for owner-operators working with their own legacy equipment.
 

@@ -8,7 +8,7 @@
 
 🖥️ **[HW Blackbox](https://github.com/jamesccupps/HW-Blackbox)** A hardware monitor and black box for Windows that answers *why did the PC switch off, or why did that app close?* Every sensor every 5 s and the voltage rails four times a second, recorded from boot by a Windows service, with a report after every power-off or app crash. Local dashboard, optional Home Assistant status. Python — [website](https://jamesccupps.github.io/HW-Blackbox/) · [download](https://github.com/jamesccupps/HW-Blackbox/releases/latest).
 
-📝 **[NoteForge](https://github.com/jamesccupps/NoteForge)** Encrypted offline note-taking with master-password and per-notebook locks. Electron + AES-256-GCM. Data stays local — no cloud, no account — [download](https://github.com/jamesccupps/NoteForge/releases/latest).
+📝 **[NoteForge](https://github.com/jamesccupps/NoteForge)** Encrypted, offline note-taking for Windows: notebooks, sections and pages like OneNote, encrypted with AES-256-GCM under a master password, plus an optional password per notebook. Encrypted backups, the vault's last three versions kept, installer or portable. Electron. Data stays local — no cloud, no account — [website](https://jamesccupps.github.io/NoteForge/) · [download](https://github.com/jamesccupps/NoteForge/releases/latest).
 
 ### Building automation and HVAC
 

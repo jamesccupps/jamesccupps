@@ -1,7 +1,3 @@
-## Hi, I'm James Cupps
-
-Facilities director. I build the tools I need for the buildings I run: building automation (BACnet, Siemens APOGEE P2 and PPCL), HVAC and network security, plus Windows apps along the way. Everything here is free, MIT-licensed and runs locally, with no accounts and no cloud.
-
 🌐 [jamesccupps.github.io](https://jamesccupps.github.io/) · 📱 [AllCalc on Google Play](https://play.google.com/store/apps/details?id=com.hvaccalc) · 🪣 [Install my Windows apps with Scoop](https://github.com/jamesccupps/scoop-bucket) · 📧 jamesccupps@proton.me
 
 ### Building automation and HVAC

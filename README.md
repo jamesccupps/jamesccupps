@@ -28,7 +28,7 @@
 
 - 🖨️ **[CTP500 Print Server](https://github.com/jamesccupps/CTP500-Print-Server)**: Raspberry Pi print server, web app and instant camera for the CTP500 Bluetooth thermal printer.
 - 🎹 **[MPK Macro Studio](https://github.com/jamesccupps/mpk-mini-iv-tools)**: turns an Akai MPK mini IV into a Windows macro controller, with its SysEx protocol reverse-engineered and [documented](https://github.com/jamesccupps/mpk-mini-iv-tools/blob/main/PROTOCOL.md).
-- 🐟 **[Synapse Reef](https://github.com/jamesccupps/Reef)**: a neuroevolution lake in the browser. Eight fish species with recurrent neural-net brains evolve to forage, school, hunt and breed. [Live demo](https://jamesccupps.github.io/Reef/)
+- 🐟 **[Synapse Reef](https://github.com/jamesccupps/Reef)**: a neuroevolution lake in the browser. Eight fish species with recurrent neural-net brains evolve to forage, school, hunt and breed. [Live demo](https://jamesccupps.github.io/Reef/) · [Working paper](https://jamesccupps.github.io/Reef/paper/)
 - 📊 **[Stock Oracle](https://github.com/jamesccupps/StockOracle)**: stock research tool with 39 data collectors, an ML ensemble and a Bloomberg-style browser terminal. Not financial advice.
 - 🧪 **[FlavorForge](https://github.com/jamesccupps/FlavorForge)**: recipe generator built on molecular flavor pairing (326 ingredients, 82 aroma compounds), texture and taste balance.
 

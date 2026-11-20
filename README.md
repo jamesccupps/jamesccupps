@@ -17,6 +17,7 @@
 - 📦 **[UniFi Stock Watcher](https://github.com/jamesccupps/UnifiStockWatcher)**: tells you the moment a Ubiquiti Store item is back in stock, on your desktop or your phone. [Website](https://jamesccupps.github.io/UnifiStockWatcher/) · [Download](https://github.com/jamesccupps/UnifiStockWatcher/releases/latest)
 - 🖥️ **[HW Blackbox](https://github.com/jamesccupps/HW-Blackbox)**: hardware monitor and black box. Records every sensor from boot and writes a report after every power-off or app crash. [Website](https://jamesccupps.github.io/HW-Blackbox/) · [Download](https://github.com/jamesccupps/HW-Blackbox/releases/latest)
 - 📝 **[NoteForge](https://github.com/jamesccupps/NoteForge)**: encrypted, offline notes laid out like OneNote (AES-256-GCM under a master password). [Website](https://jamesccupps.github.io/NoteForge/) · [Download](https://github.com/jamesccupps/NoteForge/releases/latest)
+- ✂️ **[Silhouette Maker](https://github.com/jamesccupps/silhouette-maker)**: turns side-on photos into silhouette cut files for a Cricut on your own PC, with pages to print at real size and STL files for 3D printing. No photo is uploaded. [Website](https://jamesccupps.github.io/silhouette-maker/) · [Download](https://github.com/jamesccupps/silhouette-maker/releases/latest)
 
 ### Networking and Security
 
